@@ -28,10 +28,10 @@ The following list describes the content of each column of the generated tidy da
 
 ##### "activity"
 
-Activity on which the signals were captured. Possible values: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS". 
+    Activity on which the signals were captured. Possible values: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS". 
 ##### "subject"
 
-Subject who used the Samsung device during the signal capture. Value ranges from 1 to 30. 
+    Subject who used the Samsung device during the signal capture. Value ranges from 1 to 30. 
 ##### "tBodyAcc-mean()-X"
 
     Average of the column "tBodyAcc-mean()-X" in the original dataset for the given "Activity" and "Subject".
