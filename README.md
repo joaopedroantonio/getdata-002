@@ -5,13 +5,13 @@
 This is my submission for the peer assessment of the Getting and Cleaning Data course on Coursera (getdata-002). This repository contains the following files:
 
 * README.md
-This guide.
+..* This guide.
 * CodeBook.md
-A description of the dataset created as a result of the resolution of the assessment.
+..* A description of the dataset created as a result of the resolution of the assessment.
 * dataset.txt
-A file containing the resulting dataset.
+..* A file containing the resulting dataset.
 * run_analysis.R
-A script with the functions used to generate the new dataset from the original dataset.
+..* A script with the functions used to generate the new dataset from the original dataset.
 
 ## Generating the tidy dataset
 
