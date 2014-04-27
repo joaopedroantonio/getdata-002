@@ -26,207 +26,207 @@ This Tidy Dataset contains for each "Activity" and each "Subject" from the origi
 
 The following list describes the content of each column of the generated tidy dataset.
 
-* "activity"
+##### "activity"
 
 Activity on which the signals were captured. Possible values: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS". 
-* "subject"
+##### "subject"
 
 Subject who used the Samsung device during the signal capture. Value ranges from 1 to 30. 
-* "tBodyAcc-mean()-X"
+##### "tBodyAcc-mean()-X"
 
     Average of the column "tBodyAcc-mean()-X" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAcc-mean()-Y"
+##### "tBodyAcc-mean()-Y"
 
     Average of the column "tBodyAcc-mean()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAcc-mean()-Z"
+##### "tBodyAcc-mean()-Z"
 
     Average of the column "tBodyAcc-mean()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tGravityAcc-mean()-X"
+##### "tGravityAcc-mean()-X"
 
     Average of the column "tGravityAcc-mean()-X" in the original dataset for the given "Activity" and "Subject".
-* "tGravityAcc-mean()-Y"
+##### "tGravityAcc-mean()-Y"
 
     Average of the column "tGravityAcc-mean()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tGravityAcc-mean()-Z"
+##### "tGravityAcc-mean()-Z"
 
     Average of the column "tGravityAcc-mean()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccJerk-mean()-X"
+##### "tBodyAccJerk-mean()-X"
 
     Average of the column "tBodyAccJerk-mean()-X" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccJerk-mean()-Y"
+##### "tBodyAccJerk-mean()-Y"
 
     Average of the column "tBodyAccJerk-mean()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccJerk-mean()-Z"
+##### "tBodyAccJerk-mean()-Z"
 
     Average of the column "tBodyAccJerk-mean()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyro-mean()-X"
+##### "tBodyGyro-mean()-X"
 
     Average of the column "tBodyGyro-mean()-X" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyro-mean()-Y"
+##### "tBodyGyro-mean()-Y"
 
     Average of the column "tBodyGyro-mean()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyro-mean()-Z"
+##### "tBodyGyro-mean()-Z"
 
     Average of the column "tBodyGyro-mean()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroJerk-mean()-X"
+##### "tBodyGyroJerk-mean()-X"
 
     Average of the column "tBodyGyroJerk-mean()-X" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroJerk-mean()-Y"
+##### "tBodyGyroJerk-mean()-Y"
 
     Average of the column "tBodyGyroJerk-mean()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroJerk-mean()-Z"
+##### "tBodyGyroJerk-mean()-Z"
 
     Average of the column "tBodyGyroJerk-mean()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccMag-mean()"
+##### "tBodyAccMag-mean()"
 
     Average of the column "tBodyAccMag-mean()" in the original dataset for the given "Activity" and "Subject".
-* "tGravityAccMag-mean()"
+##### "tGravityAccMag-mean()"
 
     Average of the column "tGravityAccMag-mean()" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccJerkMag-mean()"
+##### "tBodyAccJerkMag-mean()"
 
     Average of the column "tBodyAccJerkMag-mean()" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroMag-mean()"
+##### "tBodyGyroMag-mean()"
 
     Average of the column "tBodyGyroMag-mean()" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroJerkMag-mean()"
+##### "tBodyGyroJerkMag-mean()"
 
     Average of the column "tBodyGyroJerkMag-mean()" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAcc-mean()-X"
+##### "fBodyAcc-mean()-X"
 
     Average of the column "fBodyAcc-mean()-X" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAcc-mean()-Y"
+##### "fBodyAcc-mean()-Y"
 
     Average of the column "fBodyAcc-mean()-Y" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAcc-mean()-Z"
+##### "fBodyAcc-mean()-Z"
 
     Average of the column "fBodyAcc-mean()-Z" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAccJerk-mean()-X"
+##### "fBodyAccJerk-mean()-X"
 
     Average of the column "fBodyAccJerk-mean()-X" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAccJerk-mean()-Y"
+##### "fBodyAccJerk-mean()-Y"
 
     Average of the column "fBodyAccJerk-mean()-Y" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAccJerk-mean()-Z"
+##### "fBodyAccJerk-mean()-Z"
 
     Average of the column "fBodyAccJerk-mean()-Z" in the original dataset for the given "Activity" and "Subject".
-* "fBodyGyro-mean()-X"
+##### "fBodyGyro-mean()-X"
 
     Average of the column "fBodyGyro-mean()-X" in the original dataset for the given "Activity" and "Subject".
-* "fBodyGyro-mean()-Y"
+##### "fBodyGyro-mean()-Y"
 
     Average of the column "fBodyGyro-mean()-Y" in the original dataset for the given "Activity" and "Subject".
-* "fBodyGyro-mean()-Z"
+##### "fBodyGyro-mean()-Z"
 
     Average of the column "fBodyGyro-mean()-Z" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAccMag-mean()"
+##### "fBodyAccMag-mean()"
 
     Average of the column "fBodyAccMag-mean()" in the original dataset for the given "Activity" and "Subject".
-* "fBodyBodyAccJerkMag-mean()"
+##### "fBodyBodyAccJerkMag-mean()"
 
     Average of the column "fBodyBodyAccJerkMag-mean()" in the original dataset for the given "Activity" and "Subject".
-* "fBodyBodyGyroMag-mean()"
+##### "fBodyBodyGyroMag-mean()"
 
     Average of the column "fBodyBodyGyroMag-mean()" in the original dataset for the given "Activity" and "Subject".
-* "fBodyBodyGyroJerkMag-mean()"
+##### "fBodyBodyGyroJerkMag-mean()"
 
     Average of the column "fBodyBodyGyroJerkMag-mean()" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAcc-std()-X"
+##### "tBodyAcc-std()-X"
 
     Average of the column "tBodyAcc-std()-X" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAcc-std()-Y"
+##### "tBodyAcc-std()-Y"
 
     Average of the column "tBodyAcc-std()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAcc-std()-Z"
+##### "tBodyAcc-std()-Z"
 
     Average of the column "tBodyAcc-std()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tGravityAcc-std()-X"
+##### "tGravityAcc-std()-X"
 
     Average of the column "tGravityAcc-std()-X" in the original dataset for the given "Activity" and "Subject".
-* "tGravityAcc-std()-Y"
+##### "tGravityAcc-std()-Y"
 
     Average of the column "tGravityAcc-std()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tGravityAcc-std()-Z"
+##### "tGravityAcc-std()-Z"
 
     Average of the column "tGravityAcc-std()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccJerk-std()-X"
+##### "tBodyAccJerk-std()-X"
 
     Average of the column "tBodyAccJerk-std()-X" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccJerk-std()-Y"
+##### "tBodyAccJerk-std()-Y"
 
     Average of the column "tBodyAccJerk-std()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccJerk-std()-Z"
+##### "tBodyAccJerk-std()-Z"
 
     Average of the column "tBodyAccJerk-std()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyro-std()-X"
+##### "tBodyGyro-std()-X"
 
     Average of the column "tBodyGyro-std()-X" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyro-std()-Y"
+##### "tBodyGyro-std()-Y"
 
     Average of the column "tBodyGyro-std()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyro-std()-Z"
+##### "tBodyGyro-std()-Z"
 
     Average of the column "tBodyGyro-std()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroJerk-std()-X"
+##### "tBodyGyroJerk-std()-X"
 
     Average of the column "tBodyGyroJerk-std()-X" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroJerk-std()-Y"
+##### "tBodyGyroJerk-std()-Y"
 
     Average of the column "tBodyGyroJerk-std()-Y" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroJerk-std()-Z"
+##### "tBodyGyroJerk-std()-Z"
 
     Average of the column "tBodyGyroJerk-std()-Z" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccMag-std()"
+##### "tBodyAccMag-std()"
 
     Average of the column "tBodyAccMag-std()" in the original dataset for the given "Activity" and "Subject".
-* "tGravityAccMag-std()"
+##### "tGravityAccMag-std()"
 
     Average of the column "tGravityAccMag-std()" in the original dataset for the given "Activity" and "Subject".
-* "tBodyAccJerkMag-std()"
+##### "tBodyAccJerkMag-std()"
 
     Average of the column "tBodyAccJerkMag-std()" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroMag-std()"
+##### "tBodyGyroMag-std()"
 
     Average of the column "tBodyGyroMag-std()" in the original dataset for the given "Activity" and "Subject".
-* "tBodyGyroJerkMag-std()"
+##### "tBodyGyroJerkMag-std()"
 
     Average of the column "tBodyGyroJerkMag-std()" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAcc-std()-X"
+##### "fBodyAcc-std()-X"
 
     Average of the column "fBodyAcc-std()-X" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAcc-std()-Y"
+##### "fBodyAcc-std()-Y"
 
     Average of the column "fBodyAcc-std()-Y" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAcc-std()-Z"
+##### "fBodyAcc-std()-Z"
 
     Average of the column "fBodyAcc-std()-Z" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAccJerk-std()-X"
+##### "fBodyAccJerk-std()-X"
 
     Average of the column "fBodyAccJerk-std()-X" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAccJerk-std()-Y"
+##### "fBodyAccJerk-std()-Y"
 
     Average of the column "fBodyAccJerk-std()-Y" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAccJerk-std()-Z"
+##### "fBodyAccJerk-std()-Z"
 
     Average of the column "fBodyAccJerk-std()-Z" in the original dataset for the given "Activity" and "Subject".
-* "fBodyGyro-std()-X"
+##### "fBodyGyro-std()-X"
 
     Average of the column "fBodyGyro-std()-X" in the original dataset for the given "Activity" and "Subject".
-* "fBodyGyro-std()-Y"
+##### "fBodyGyro-std()-Y"
 
     Average of the column "fBodyGyro-std()-Y" in the original dataset for the given "Activity" and "Subject".
-* "fBodyGyro-std()-Z"
+##### "fBodyGyro-std()-Z"
 
     Average of the column "fBodyGyro-std()-Z" in the original dataset for the given "Activity" and "Subject".
-* "fBodyAccMag-std()"
+##### "fBodyAccMag-std()"
 
     Average of the column "fBodyAccMag-std()" in the original dataset for the given "Activity" and "Subject".
-* "fBodyBodyAccJerkMag-std()"
+##### "fBodyBodyAccJerkMag-std()"
 
     Average of the column "fBodyBodyAccJerkMag-std()" in the original dataset for the given "Activity" and "Subject".
-* "fBodyBodyGyroMag-std()"
+##### "fBodyBodyGyroMag-std()"
 
     Average of the column "fBodyBodyGyroMag-std()" in the original dataset for the given "Activity" and "Subject".
-* "fBodyBodyGyroJerkMag-std()"
+##### "fBodyBodyGyroJerkMag-std()"
 
     Average of the column "fBodyBodyGyroJerkMag-std()" in the original dataset for the given "Activity" and "Subject".
